@@ -45,7 +45,7 @@ function moveSlide(n) {
 // Display the first slide
 showSlide(0);
 
-const images = ["./assets/img40.jpg", "./assets/img41.jpg"]; // Add more image URLs as needed
+const images = ["./img40.jpg", "./img41.jpg"]; // Add more image URLs as needed
 let current = 0;
 
 const imageNumber = document.querySelector('.image-number');
